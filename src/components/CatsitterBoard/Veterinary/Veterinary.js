@@ -37,9 +37,9 @@ function Veterinary() {
             </div>
 
             <p className='text'>
-              Pour votre sécurité et la mienne, je suis vacciné contre la rage, je suis à jour de
-              mon traitement antipuce, et je suis doté d'une puce électronique et d'un passeport
-              européen.
+              Pour votre sécurité et la mienne, je suis vacciné contre la rage, le typhus, la
+              leucose et le coryza, je suis à jour de mon traitement antipuce, et je suis doté d'une
+              puce électronique et d'un passeport européen.
             </p>
           </div>
         </div>
